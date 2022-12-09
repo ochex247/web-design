@@ -1,0 +1,33 @@
+*{
+
+font-style: italic;
+}
+/* ID select */
+#first {
+
+    background-color: red;
+}
+
+/* Class Selector */
+
+.first {
+
+    background-color: green;
+
+}
+
+/* Class Selector */
+
+.test {
+
+    font-size: 50px;
+}
+.greeting {
+
+    background-color: cadetblue;
+}
+
+h2.greeting {
+
+    background-color: tomato;
+}
